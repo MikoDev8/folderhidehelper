@@ -15,7 +15,7 @@ config = json.loads(
 # Pobranie ustawień z konfiguracji
 correct_code = config["ustawienia_ogólne"]["kod"]
 folder_path = Path(config["ustawienia_ogólne"]["ścieżka"])
-warning_file_name = config["ustawienia_logów"]["nazwa_pliku_z_ostrzeżeniem"]
+warning_file_name = config["ustawienia_logów"]["nazwa_pliku_logów"]
 
 print("-----FOLDER LOCKER 1.0-----")
 
