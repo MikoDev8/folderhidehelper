@@ -5,7 +5,7 @@
         "ścieżka": "test/przykładowy folder"
     },
     "ustawienia_logów": {
-        "nazwa_pliku_z_ostrzeżeniem": "logi.txt",
+        "nazwa_pliku_logów": "logi.txt",
         "pytaj_o_wyczyszczenie_logów": "tak",
         "loguj_gdy_zły_kod": "tak",
         "loguj_gdy_próba_dostępu": "tak",
